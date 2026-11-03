@@ -22,7 +22,7 @@ The prototype uses sample data, with temporary accounts and uploads stored in br
 ## Skills & Tools
 
 - **Programming:** Java
-- **Tools:** Jira, OpenAI Codex, Google Gemini
+- **Tools:** Microsoft Copilot, OpenAI Codex, Google Gemini, Jira
 - **Practical experience:** Software troubleshooting, UI design, feature definition, AI-assisted prototyping, functional testing
 
 ## Around Campus
