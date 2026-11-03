@@ -11,7 +11,7 @@ Roster is a course-planning prototype developed with two teammates at the Lehigh
 **My contributions**
 - Proposed the idea and helped the team agree on the project direction.
 - Co-designed the interface and features.
-- Used OpenAI Codex and Google Gemini to prototype features, test functionality, and refine layouts.
+- Used Microsoft Copilot, OpenAI Codex, and Google Gemini to prototype features, test functionality, and refine layouts.
 
 **Project stack:** React, TypeScript, CSS, Vite, Vinext
 
